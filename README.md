@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefo1HEJEbWR0qB4f09r4eQNcjk_AhKixblA&s.gif"  />
+  <img height="400" src="https://i.redd.it/yvjpo4ghl4ad1.gif"  />
 </div>
 
 ###
